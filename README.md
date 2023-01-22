@@ -1,4 +1,1 @@
-# Cybertechniques site pages
-
-## See www.cybertechniques.net for more information
-
+DO NOT RUN ANYTHING IN THIS REPOSITORY FOR ANY REASON THIS WAS FORKED FOR REFERENCE 
