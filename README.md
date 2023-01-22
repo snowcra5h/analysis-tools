@@ -4,4 +4,5 @@
 
 - pe-tools 32 & 64 
 https://tzworks.com/download_links.php
-
+- RE resource 
+https://www.aldeid.com/wiki/Category:Reverse-Engineering
