@@ -6,3 +6,5 @@
 https://tzworks.com/download_links.php
 - RE resource 
 https://www.aldeid.com/wiki/Category:Reverse-Engineering
+- PE 
+- https://www.aldeid.com/wiki/PE-Portable-executable
